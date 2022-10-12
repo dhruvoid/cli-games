@@ -1,0 +1,8 @@
+increase snake length with every fruit
+vary boundries with every level;
+level completed on basis of score;
+speed varies with level;
+solve flickering;
+find better way to control snake speed than sleep;
+game should not close;y
+replay option;y
