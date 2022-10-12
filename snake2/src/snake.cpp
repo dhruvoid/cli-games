@@ -262,3 +262,5 @@ void gameLoop()
          cout << score << endl;
     }
 }
+
+// test comment
